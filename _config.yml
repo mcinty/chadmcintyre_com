@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
 title:  chadmcintyre.com
+github:
+  is_project_page: false
+  
